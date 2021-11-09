@@ -1,0 +1,16 @@
+C:\dev\.net\headfirst design patterns\duck\bin\Debug\net5.0\duck.exe
+C:\dev\.net\headfirst design patterns\duck\bin\Debug\net5.0\duck.deps.json
+C:\dev\.net\headfirst design patterns\duck\bin\Debug\net5.0\duck.runtimeconfig.json
+C:\dev\.net\headfirst design patterns\duck\bin\Debug\net5.0\duck.runtimeconfig.dev.json
+C:\dev\.net\headfirst design patterns\duck\bin\Debug\net5.0\duck.dll
+C:\dev\.net\headfirst design patterns\duck\bin\Debug\net5.0\ref\duck.dll
+C:\dev\.net\headfirst design patterns\duck\bin\Debug\net5.0\duck.pdb
+C:\dev\.net\headfirst design patterns\duck\obj\Debug\net5.0\duck.csprojAssemblyReference.cache
+C:\dev\.net\headfirst design patterns\duck\obj\Debug\net5.0\duck.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\.net\headfirst design patterns\duck\obj\Debug\net5.0\duck.AssemblyInfoInputs.cache
+C:\dev\.net\headfirst design patterns\duck\obj\Debug\net5.0\duck.AssemblyInfo.cs
+C:\dev\.net\headfirst design patterns\duck\obj\Debug\net5.0\duck.csproj.CoreCompileInputs.cache
+C:\dev\.net\headfirst design patterns\duck\obj\Debug\net5.0\duck.dll
+C:\dev\.net\headfirst design patterns\duck\obj\Debug\net5.0\ref\duck.dll
+C:\dev\.net\headfirst design patterns\duck\obj\Debug\net5.0\duck.pdb
+C:\dev\.net\headfirst design patterns\duck\obj\Debug\net5.0\duck.genruntimeconfig.cache

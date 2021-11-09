@@ -1,0 +1,16 @@
+C:\dev\.net\headfirst design patterns\adapter\bin\Debug\net5.0\adapter.exe
+C:\dev\.net\headfirst design patterns\adapter\bin\Debug\net5.0\adapter.deps.json
+C:\dev\.net\headfirst design patterns\adapter\bin\Debug\net5.0\adapter.runtimeconfig.json
+C:\dev\.net\headfirst design patterns\adapter\bin\Debug\net5.0\adapter.runtimeconfig.dev.json
+C:\dev\.net\headfirst design patterns\adapter\bin\Debug\net5.0\adapter.dll
+C:\dev\.net\headfirst design patterns\adapter\bin\Debug\net5.0\ref\adapter.dll
+C:\dev\.net\headfirst design patterns\adapter\bin\Debug\net5.0\adapter.pdb
+C:\dev\.net\headfirst design patterns\adapter\obj\Debug\net5.0\adapter.csprojAssemblyReference.cache
+C:\dev\.net\headfirst design patterns\adapter\obj\Debug\net5.0\adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\.net\headfirst design patterns\adapter\obj\Debug\net5.0\adapter.AssemblyInfoInputs.cache
+C:\dev\.net\headfirst design patterns\adapter\obj\Debug\net5.0\adapter.AssemblyInfo.cs
+C:\dev\.net\headfirst design patterns\adapter\obj\Debug\net5.0\adapter.csproj.CoreCompileInputs.cache
+C:\dev\.net\headfirst design patterns\adapter\obj\Debug\net5.0\adapter.dll
+C:\dev\.net\headfirst design patterns\adapter\obj\Debug\net5.0\ref\adapter.dll
+C:\dev\.net\headfirst design patterns\adapter\obj\Debug\net5.0\adapter.pdb
+C:\dev\.net\headfirst design patterns\adapter\obj\Debug\net5.0\adapter.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\dev\.net\headfirst design patterns\pizzaFactoryMethod\bin\Debug\net5.0\pizzaFactory.exe
+C:\dev\.net\headfirst design patterns\pizzaFactoryMethod\bin\Debug\net5.0\pizzaFactory.deps.json
+C:\dev\.net\headfirst design patterns\pizzaFactoryMethod\bin\Debug\net5.0\pizzaFactory.runtimeconfig.json
+C:\dev\.net\headfirst design patterns\pizzaFactoryMethod\bin\Debug\net5.0\pizzaFactory.runtimeconfig.dev.json
+C:\dev\.net\headfirst design patterns\pizzaFactoryMethod\bin\Debug\net5.0\pizzaFactory.dll
+C:\dev\.net\headfirst design patterns\pizzaFactoryMethod\bin\Debug\net5.0\ref\pizzaFactory.dll
+C:\dev\.net\headfirst design patterns\pizzaFactoryMethod\bin\Debug\net5.0\pizzaFactory.pdb
+C:\dev\.net\headfirst design patterns\pizzaFactoryMethod\obj\Debug\net5.0\pizzaFactory.csprojAssemblyReference.cache
+C:\dev\.net\headfirst design patterns\pizzaFactoryMethod\obj\Debug\net5.0\pizzaFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\.net\headfirst design patterns\pizzaFactoryMethod\obj\Debug\net5.0\pizzaFactory.AssemblyInfoInputs.cache
+C:\dev\.net\headfirst design patterns\pizzaFactoryMethod\obj\Debug\net5.0\pizzaFactory.AssemblyInfo.cs
+C:\dev\.net\headfirst design patterns\pizzaFactoryMethod\obj\Debug\net5.0\pizzaFactory.csproj.CoreCompileInputs.cache
+C:\dev\.net\headfirst design patterns\pizzaFactoryMethod\obj\Debug\net5.0\pizzaFactory.dll
+C:\dev\.net\headfirst design patterns\pizzaFactoryMethod\obj\Debug\net5.0\ref\pizzaFactory.dll
+C:\dev\.net\headfirst design patterns\pizzaFactoryMethod\obj\Debug\net5.0\pizzaFactory.pdb
+C:\dev\.net\headfirst design patterns\pizzaFactoryMethod\obj\Debug\net5.0\pizzaFactory.genruntimeconfig.cache

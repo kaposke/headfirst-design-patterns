@@ -1,0 +1,16 @@
+C:\dev\.net\headfirst design patterns\weather\bin\Debug\net5.0\weather.exe
+C:\dev\.net\headfirst design patterns\weather\bin\Debug\net5.0\weather.deps.json
+C:\dev\.net\headfirst design patterns\weather\bin\Debug\net5.0\weather.runtimeconfig.json
+C:\dev\.net\headfirst design patterns\weather\bin\Debug\net5.0\weather.runtimeconfig.dev.json
+C:\dev\.net\headfirst design patterns\weather\bin\Debug\net5.0\weather.dll
+C:\dev\.net\headfirst design patterns\weather\bin\Debug\net5.0\ref\weather.dll
+C:\dev\.net\headfirst design patterns\weather\bin\Debug\net5.0\weather.pdb
+C:\dev\.net\headfirst design patterns\weather\obj\Debug\net5.0\weather.csprojAssemblyReference.cache
+C:\dev\.net\headfirst design patterns\weather\obj\Debug\net5.0\weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\.net\headfirst design patterns\weather\obj\Debug\net5.0\weather.AssemblyInfoInputs.cache
+C:\dev\.net\headfirst design patterns\weather\obj\Debug\net5.0\weather.AssemblyInfo.cs
+C:\dev\.net\headfirst design patterns\weather\obj\Debug\net5.0\weather.csproj.CoreCompileInputs.cache
+C:\dev\.net\headfirst design patterns\weather\obj\Debug\net5.0\weather.dll
+C:\dev\.net\headfirst design patterns\weather\obj\Debug\net5.0\ref\weather.dll
+C:\dev\.net\headfirst design patterns\weather\obj\Debug\net5.0\weather.pdb
+C:\dev\.net\headfirst design patterns\weather\obj\Debug\net5.0\weather.genruntimeconfig.cache

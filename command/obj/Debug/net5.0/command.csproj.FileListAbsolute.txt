@@ -1,0 +1,16 @@
+C:\dev\.net\headfirst design patterns\command\bin\Debug\net5.0\command.exe
+C:\dev\.net\headfirst design patterns\command\bin\Debug\net5.0\command.deps.json
+C:\dev\.net\headfirst design patterns\command\bin\Debug\net5.0\command.runtimeconfig.json
+C:\dev\.net\headfirst design patterns\command\bin\Debug\net5.0\command.runtimeconfig.dev.json
+C:\dev\.net\headfirst design patterns\command\bin\Debug\net5.0\command.dll
+C:\dev\.net\headfirst design patterns\command\bin\Debug\net5.0\ref\command.dll
+C:\dev\.net\headfirst design patterns\command\bin\Debug\net5.0\command.pdb
+C:\dev\.net\headfirst design patterns\command\obj\Debug\net5.0\command.csprojAssemblyReference.cache
+C:\dev\.net\headfirst design patterns\command\obj\Debug\net5.0\command.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\.net\headfirst design patterns\command\obj\Debug\net5.0\command.AssemblyInfoInputs.cache
+C:\dev\.net\headfirst design patterns\command\obj\Debug\net5.0\command.AssemblyInfo.cs
+C:\dev\.net\headfirst design patterns\command\obj\Debug\net5.0\command.csproj.CoreCompileInputs.cache
+C:\dev\.net\headfirst design patterns\command\obj\Debug\net5.0\command.dll
+C:\dev\.net\headfirst design patterns\command\obj\Debug\net5.0\ref\command.dll
+C:\dev\.net\headfirst design patterns\command\obj\Debug\net5.0\command.pdb
+C:\dev\.net\headfirst design patterns\command\obj\Debug\net5.0\command.genruntimeconfig.cache
